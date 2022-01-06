@@ -127,7 +127,7 @@ section {
 }
 .contact {
   margin-top: 60px;
-  background-image: url(/images/pictures/coffee.jpg);
+  background-image: url(images/pictures/coffee.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
